@@ -1,3 +1,13 @@
+'''
+Name: Max Ehrlich, Muhammad Fazlani, William Carr
+email: ehrlicmh@mail.uc.edu, fazlanmn@mail.uc.edu, carrwa@mail.uc.edu
+Assignment: Final Project
+Created: April 23, 2023
+Course: IS 4010
+Semester/Year: Spring 2023
+Brief Description: This module contains the decryption and display functions that will be called in our main.py
+Citations: n/a
+'''
 import json5
 from PIL import Image
 

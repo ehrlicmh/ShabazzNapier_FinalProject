@@ -1,3 +1,13 @@
+'''
+Name: Max Ehrlich, Muhammad Fazlani, William Carr
+email: ehrlicmh@mail.uc.edu, fazlanmn@mail.uc.edu, carrwa@mail.uc.edu
+Assignment: Final Project
+Created: April 23, 2023
+Course: IS 4010
+Semester/Year: Spring 2023
+Brief Description: In this module we specify the constraints of our display and decrypt function to find our decrypted location hint and display the photo
+Citations: n/a
+'''
 from functionsPackage.functions import *
 
 
